@@ -1,0 +1,15 @@
+{
+  "world":{
+    "1":{
+      "host": "127.0.0.1",
+      "port":80,
+      "maxUsers": 15
+    }
+  },
+  "database":{
+    "user": "root",
+    "password": "password",
+    "host": "localhost",
+    "database": "slippers"
+  }
+}
